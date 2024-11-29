@@ -19,7 +19,7 @@ import helpers.vid as helper
 from CrazyMind.CrazyConfig import *
 from helpers.button import keyboard
 from helpers.sudoers import *
-from helpers.text import *
+
 
 from utils import get_datetime_str, create_html_file
 # ==========Logging==========#
